@@ -1,5 +1,5 @@
-# totalTaxCollected
--Class Abstract and polymorphism
+# Total Tax Collected
+-Class Abstract and polymorphism;
 
-##Language used
--Java
+##Language Used
+-Java;
