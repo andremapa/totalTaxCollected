@@ -1,5 +1,5 @@
 # totalTaxCollected
--Class Abstract and polymorphism.
+-Class Abstract and polymorphism
 
 ##Language used
 -Java
